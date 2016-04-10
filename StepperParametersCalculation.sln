@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepperParametersCalculation", "StepperParametersCalculation\StepperParametersCalculation.csproj", "{BAF0EFAD-2AF2-424C-A4A3-2B25D5EFBA5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StepperTest", "StepperTest\StepperTest.csproj", "{237A164D-A1B4-4812-9929-8FC5637D783F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF0EFAD-2AF2-424C-A4A3-2B25D5EFBA5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF0EFAD-2AF2-424C-A4A3-2B25D5EFBA5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF0EFAD-2AF2-424C-A4A3-2B25D5EFBA5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF0EFAD-2AF2-424C-A4A3-2B25D5EFBA5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{237A164D-A1B4-4812-9929-8FC5637D783F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237A164D-A1B4-4812-9929-8FC5637D783F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237A164D-A1B4-4812-9929-8FC5637D783F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237A164D-A1B4-4812-9929-8FC5637D783F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
